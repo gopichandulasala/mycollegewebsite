@@ -1,0 +1,59 @@
+body{
+	background-color: lightgrey;
+	padding: 0px 100px 0px 100px;
+}
+label{
+	color: white;
+}
+#main{
+	background-color: white;
+
+}
+#first{
+	background-color: rgb(54, 98, 49);
+}
+/*background: rgb(54, 98, 49);
+*/
+#firsec{
+	color: white;
+	float: right;
+
+}
+.button1{
+background-color: rgb(17,61 ,17);
+border: 2px solid black;
+color: white;
+}
+.button1:hover{ 
+	background-color: rgb(54, 97, 51);
+	color: black;
+
+}
+#sec{
+	
+	margin: auto;
+	padding: 10px;
+	width: 92%;
+	background-image: linear-gradient(white,rgb(231,231,231));
+}
+.imgq{
+	object-fit: contain;
+
+}
+.dic{
+	margin: auto;
+	padding: 10px;
+	width: 92%;
+	background-color: lightgrey;
+}
+table{
+	background-color: rgb(54, 98, 49);
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;	
+}
+a{
+	color: white;
+	font-size: 13px;
+	text-decoration: none;
+}
